@@ -1,0 +1,3 @@
+python scholar.py -c 100 --after=2007 --author "brice morin" --citation bt > ref.bib
+python scholar.py -c 19 --author "hb prajapati"
+python scholar.py -c --author "hb prajapati" --csv > s1.csv 
